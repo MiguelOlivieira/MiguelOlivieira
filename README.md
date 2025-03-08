@@ -38,3 +38,5 @@
 
 <img src = "https://raw.githubusercontent.com/MiguelOlivieira/MiguelOlivieira/output/snake.svg" alt = "Snake Animation"/>
 </div>
+
+> **_Let the sun shine upon this Lord Of Cinder..._** 
