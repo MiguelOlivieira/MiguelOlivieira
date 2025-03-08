@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<MiguelOlivieira>/<MiguelOlivieira>/blob/output/github-contribution-grid-snake2.svg)
+<img src = "https://raw.githubusercontent.com/MiguelOlivieira/MiguelOlivieira/output/snake.svg" alt = "Snake Animation"/>
 
 ###
